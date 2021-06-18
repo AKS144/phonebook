@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Document to be filled</title>
 	<link rel="stylesheet" href="{{ asset('css/app.css') }}">
 </head>
 <body>
